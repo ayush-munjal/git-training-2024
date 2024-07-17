@@ -7,3 +7,4 @@ Shlok
 
 Trainees:
 Ayush
+Taha Adeel Mohammed
